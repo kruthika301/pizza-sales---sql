@@ -14,7 +14,7 @@ This project is based on a fictional pizza store’s sales data. I used SQL to a
 - Grouped sales by day, week, and month  
 
 Tools Used  
-- SQL (I used [replace with your tool, e.g., MySQL / PostgreSQL])  
+- SQL (I used  MySQL)  
 - GitHub for version control
 
  What I Learned  
